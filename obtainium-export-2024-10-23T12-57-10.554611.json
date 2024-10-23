@@ -1,0 +1,413 @@
+{
+    "apps": [
+        {
+            "id": "dev.imranr.obtainium",
+            "url": "https://github.com/ImranR98/Obtainium",
+            "author": "ImranR98",
+            "name": "Obtainium",
+            "installedVersion": "v1.1.28",
+            "latestVersion": "v1.1.28",
+            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200478005\"]]",
+            "otherAssetUrls": "[[\"app-arm64-v8a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200478010\"],[\"app-arm64-v8a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-fdroid-release.apk.idsig\"],[\"app-arm64-v8a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-fdroid-release.apk.sha256\"],[\"app-arm64-v8a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-fdroid-release.apk.sha256.sig\"],[\"app-arm64-v8a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-release.apk.idsig\"],[\"app-arm64-v8a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-release.apk.sha256\"],[\"app-arm64-v8a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-arm64-v8a-release.apk.sha256.sig\"],[\"app-armeabi-v7a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477994\"],[\"app-armeabi-v7a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-fdroid-release.apk.idsig\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-fdroid-release.apk.sha256\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-fdroid-release.apk.sha256.sig\"],[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477981\"],[\"app-armeabi-v7a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-release.apk.idsig\"],[\"app-armeabi-v7a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-release.apk.sha256\"],[\"app-armeabi-v7a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-armeabi-v7a-release.apk.sha256.sig\"],[\"app-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477968\"],[\"app-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-fdroid-release.apk.idsig\"],[\"app-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-fdroid-release.apk.sha256\"],[\"app-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-fdroid-release.apk.sha256.sig\"],[\"app-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477955\"],[\"app-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-release.apk.idsig\"],[\"app-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-release.apk.sha256\"],[\"app-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-release.apk.sha256.sig\"],[\"app-x86_64-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477936\"],[\"app-x86_64-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-fdroid-release.apk.idsig\"],[\"app-x86_64-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-fdroid-release.apk.sha256\"],[\"app-x86_64-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-fdroid-release.apk.sha256.sig\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/200477927\"],[\"app-x86_64-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-release.apk.idsig\"],[\"app-x86_64-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-release.apk.sha256\"],[\"app-x86_64-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.1.28/app-x86_64-release.apk.sha256.sig\"],[\"v1.1.28.tar.gz\",\"https://api.github.com/repos/ImranR98/Obtainium/tarball/v1.1.28\"],[\"v1.1.28.zip\",\"https://api.github.com/repos/ImranR98/Obtainium/zipball/v1.1.28\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"fdroid\",\"invertAPKFilter\":true,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666065824897,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1729456846000000,
+            "changeLog": "## What's Changed\r\n* Correction of French translations by @Kevinr99089 in https://github.com/ImranR98/Obtainium/pull/1907\r\n* Allow installation of the debug build by @mintsoft in https://github.com/ImranR98/Obtainium/pull/1906\r\n* By @ImranR98 in https://github.com/ImranR98/Obtainium/pull/1916\r\n  * APKPure: Fix issue with characters in URLs (#1912)\r\n  * APKPure: Fix bug with versionCode not found\r\n  * Optional \"when charging only\" toggle for BG updates (#1914)\r\n* Update hungarian translation - hu.json by @summoner001 in https://github.com/ImranR98/Obtainium/pull/1917\r\n\r\n## New Contributors\r\n* @mintsoft made their first contribution in https://github.com/ImranR98/Obtainium/pull/1906\r\n\r\n**Full Changelog**: https://github.com/ImranR98/Obtainium/compare/v1.1.27...v1.1.28",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "org.localsend.localsend_app",
+            "url": "https://github.com/localsend/localsend",
+            "author": "localsend",
+            "name": "LocalSend",
+            "installedVersion": "v1.15.4",
+            "latestVersion": "v1.15.4",
+            "apkUrls": "[[\"LocalSend-1.15.4-android-arm32v7.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/187019403\"],[\"LocalSend-1.15.4-android-arm64v8.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/187019410\"],[\"LocalSend-1.15.4-android-google-play.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/187021688\"],[\"LocalSend-1.15.4-android-x64.apk\",\"https://api.github.com/repos/localsend/localsend/releases/assets/187019414\"]]",
+            "otherAssetUrls": "[[\"LocalSend-1.15.4-linux-arm-64.deb\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-linux-arm-64.deb\"],[\"LocalSend-1.15.4-linux-arm-64.tar.gz\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-linux-arm-64.tar.gz\"],[\"LocalSend-1.15.4-linux-x86-64.AppImage\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-linux-x86-64.AppImage\"],[\"LocalSend-1.15.4-linux-x86-64.deb\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-linux-x86-64.deb\"],[\"LocalSend-1.15.4-linux-x86-64.tar.gz\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-linux-x86-64.tar.gz\"],[\"LocalSend-1.15.4-windows-x86-64.exe\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-windows-x86-64.exe\"],[\"LocalSend-1.15.4-windows-x86-64.zip\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-windows-x86-64.zip\"],[\"LocalSend-1.15.4.dmg\",\"https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4.dmg\"],[\"v1.15.4.tar.gz\",\"https://api.github.com/repos/localsend/localsend/tarball/v1.15.4\"],[\"v1.15.4.zip\",\"https://api.github.com/repos/localsend/localsend/zipball/v1.15.4\"]]",
+            "preferredApkIndex": 1,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":true,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"github-creds\":\"\"}",
+            "lastUpdateCheck": 1729666064866892,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1724118597000000,
+            "changeLog": "### Summary\r\n\r\n- feat: add button to retry a failed file transfer (@Tienisto)\r\n- feat: show tooltip on the \"Scan\" button (@Tienisto)\r\n- feat: treat any URI as link, so it becomes clickable on receiver (e.g. file://, obsidian://) (@Tienisto)\r\n- feat(mobile): adjust button width in send tab to indicate that it's scrollable (@Tienisto)\r\n- feat(windows): title bar color should match the system theme (@FutoTan)\r\n- fix: memory leak when sending files (regression in 1.15.0, 1.15.2 only fixed receiving files) (@Tienisto)\r\n- fix(windows): LocalSend window is invisible at app start (@Tienisto)\r\n- i18n: distinguish between \"Exit\" and \"Quit\" depending on the platform (@sergd88)\r\n- i18n: add Hindi (@rishi-singh26)\r\n\r\n[Full Changelog](https://github.com/localsend/localsend/blob/main/app/assets/CHANGELOG.md)\r\n",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "com.carriez.flutter_hbb",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "author": "rustdesk",
+            "name": "RustDesk",
+            "installedVersion": "1.3.1",
+            "latestVersion": "1.3.1",
+            "apkUrls": "[[\"rustdesk-1.3.1-aarch64-signed.apk\",\"https://api.github.com/repos/rustdesk/rustdesk/releases/assets/193844881\"],[\"rustdesk-1.3.1-armv7-signed.apk\",\"https://api.github.com/repos/rustdesk/rustdesk/releases/assets/193844834\"],[\"rustdesk-1.3.1-universal-signed.apk\",\"https://api.github.com/repos/rustdesk/rustdesk/releases/assets/193846493\"],[\"rustdesk-1.3.1-x86_64-signed.apk\",\"https://api.github.com/repos/rustdesk/rustdesk/releases/assets/193844562\"]]",
+            "otherAssetUrls": "[[\"rustdesk-1.3.1-0-x86_64.pkg.tar.zst\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0-x86_64.pkg.tar.zst\"],[\"rustdesk-1.3.1-0.aarch64-suse.rpm\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.aarch64-suse.rpm\"],[\"rustdesk-1.3.1-0.aarch64.rpm\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.aarch64.rpm\"],[\"rustdesk-1.3.1-0.x86_64-suse.rpm\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.x86_64-suse.rpm\"],[\"rustdesk-1.3.1-0.x86_64.rpm\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.x86_64.rpm\"],[\"rustdesk-1.3.1-aarch64.AppImage\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.AppImage\"],[\"rustdesk-1.3.1-aarch64.deb\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.deb\"],[\"rustdesk-1.3.1-aarch64.dmg\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.dmg\"],[\"rustdesk-1.3.1-aarch64.flatpak\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.flatpak\"],[\"rustdesk-1.3.1-armv7-sciter.deb\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-armv7-sciter.deb\"],[\"rustdesk-1.3.1-unsigned.tar.gz\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-unsigned.tar.gz\"],[\"rustdesk-1.3.1-x86-sciter.exe\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86-sciter.exe\"],[\"rustdesk-1.3.1-x86_64-sciter.deb\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64-sciter.deb\"],[\"rustdesk-1.3.1-x86_64-sciter.flatpak\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64-sciter.flatpak\"],[\"rustdesk-1.3.1-x86_64.AppImage\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.AppImage\"],[\"rustdesk-1.3.1-x86_64.deb\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.deb\"],[\"rustdesk-1.3.1-x86_64.dmg\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.dmg\"],[\"rustdesk-1.3.1-x86_64.exe\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.exe\"],[\"rustdesk-1.3.1-x86_64.flatpak\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.flatpak\"],[\"rustdesk-1.3.1-x86_64.msi\",\"https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.msi\"],[\"1.3.1.tar.gz\",\"https://api.github.com/repos/rustdesk/rustdesk/tarball/1.3.1\"],[\"1.3.1.zip\",\"https://api.github.com/repos/rustdesk/rustdesk/zipball/1.3.1\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":true,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064991228,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1726840201000000,
+            "changeLog": "![image](https://github.com/rustdesk/rustdesk/assets/71636191/83754a64-31b8-47f0-8570-da22207759a9)\r\n\r\n| Architecture | Windows | Ubuntu | Mac | Android | Flatpak | AppImage | iOS |\r\n|--------------|---------|--------|-----|----------|---------|---------|---------|\r\n| x86-64 (64-bit) | [EXE](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.exe) &nbsp; [MSI](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.msi) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.deb) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.dmg) | [Universal](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-universal-signed.apk) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.flatpak) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86_64.AppImage) |\r\n| AArch64 (ARM64) |  | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.deb) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.dmg) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64-signed.apk) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.flatpak) |  [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-aarch64.AppImage)  | [TestFlight](https://testflight.apple.com/join/KBG9EsZW)\r\n| ARMv7 (32-bit) |  | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-armv7-sciter.deb) |  |  [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-armv7-signed.apk) |  |  |\r\n| x86-32 (32-bit) | [Download](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-x86-sciter.exe) |  |  |  |  |  |\r\n\r\n\r\n## For more downloads ([Fedora](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.x86_64.rpm) / [Arch Linux](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0-x86_64.pkg.tar.zst) / [Suse](https://github.com/rustdesk/rustdesk/releases/download/1.3.1/rustdesk-1.3.1-0.x86_64-suse.rpm)): [check below please](#)\r\n\r\n## For the latest features: [check out the nightly build](https://github.com/rustdesk/rustdesk/releases/tag/nightly)\r\n\r\n <details>\r\n <summary>Changelog</summary>\r\n\r\n # Added\r\n - Four new advanced options\r\n   * [one-way-clipboard-redirection / one-way-file-transfer](https://rustdesk.com/docs/en/self-host/client-configuration/advanced-settings/#one-way-clipboard-redirection) ([#7837](https://github.com/rustdesk/rustdesk/discussions/7837))\r\n   * [sync-init-clipboard](https://rustdesk.com/docs/en/self-host/client-configuration/advanced-settings/#sync-init-clipboard) ([#9010](https://github.com/rustdesk/rustdesk/discussions/9010))\r\n   * [allow-logon-screen-password](https://rustdesk.com/docs/en/self-host/client-configuration/advanced-settings/#allow-logon-screen-password) ([#9269](https://github.com/rustdesk/rustdesk/discussions/9269))\r\n   \r\n # Changes\r\n - Optimize desktop file manager UI ([#9153](https://github.com/rustdesk/rustdesk/pull/9153)), status list ([#9117](https://github.com/rustdesk/rustdesk/pull/9117), [#9166](https://github.com/rustdesk/rustdesk/pull/9166))\r\n - Responsive UI ([#9235](https://github.com/rustdesk/rustdesk/pull/9235))\r\n - Change libappindicator  to libayatana-appindicator, and add to recommends instead ([#9364](https://github.com/rustdesk/rustdesk/pull/9364))\r\n - Disable clipboard init sync ([#9010](https://github.com/rustdesk/rustdesk/discussions/9010))\r\n \r\n # Fixes\r\n - New cm tab not replace the old persisted tab, introduced in 1.2.7 ([#9127](https://github.com/rustdesk/rustdesk/pull/9127))\r\n - Macos, mouse button, back & forward ([#9185](https://github.com/rustdesk/rustdesk/pull/9185))\r\n - Android ios, lan discovery ([#9207](https://github.com/rustdesk/rustdesk/pull/9207))\r\n - More `waiting for image` because of hardware codec failures ([#9242](https://github.com/rustdesk/rustdesk/pull/9242))\r\n - Certain passwords stop working after client reboot ([#9232](https://github.com/rustdesk/rustdesk/discussions/9232))\r\n - Excel copy / paste ([#9252](https://github.com/rustdesk/rustdesk/pull/9252))\r\n - Close / open GUI loop on Linux during start service ([#9254](https://github.com/rustdesk/rustdesk/discussions/9254))\r\n - Leaks\r\n   * Windows ffmpeg memory leak and texture rendering GPU leak ([#9266](https://github.com/rustdesk/rustdesk/pull/9266))\r\n   * Windows `--service` leak ([#8651](https://github.com/rustdesk/rustdesk/discussions/8651#discussioncomment-10656414))\r\n   * Mac `--server` leak ([#cacca72](https://github.com/rustdesk/rustdesk/commit/cacca7295ca073d134c1e25e99241035c35715c5))\r\n   * Flutter leak ([#9331](https://github.com/rustdesk/rustdesk/pull/9331), [#9392](https://github.com/rustdesk/rustdesk/pull/9392))\r\n - Permanent password only recognize English uppercase ([#9342](https://github.com/rustdesk/rustdesk/discussions/9342))\r\n - Sciter keyboard not work ([#9143](https://github.com/rustdesk/rustdesk/discussions/9143))\r\n - Already attached virtual display disconnecting ([#9366](https://github.com/rustdesk/rustdesk/discussions/9366))\r\n - Replace pkexec with our gtk-sudo ([#9286](https://github.com/rustdesk/rustdesk/issues/9286))\r\n - Hotkey, linux-> win in translate mode ([#9406](https://github.com/rustdesk/rustdesk/pull/9406))\r\n - Mouse cursor mismtach on scaled Wayland screen (Flatpak) ([#8524](https://github.com/rustdesk/rustdesk/issues/8524))\r\n\r\n</details>\r\n",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "com.ammar.wallflow",
+            "url": "https://github.com/ammargitham/WallFlow",
+            "author": "ammargitham",
+            "name": "WallFlow",
+            "installedVersion": "v2.5.0",
+            "latestVersion": "v2.5.0",
+            "apkUrls": "[[\"app-base-arm64-v8a-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882505\"],[\"app-plus-arm64-v8a-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882513\"]]",
+            "otherAssetUrls": "[[\"app-base-armeabi-v7a-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882506\"],[\"app-base-x86-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882507\"],[\"app-base-x86_64-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882509\"],[\"app-plus-armeabi-v7a-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882514\"],[\"app-plus-x86-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882515\"],[\"app-plus-x86_64-release-signed.apk\",\"https://api.github.com/repos/ammargitham/WallFlow/releases/assets/161882516\"],[\"v2.5.0.tar.gz\",\"https://api.github.com/repos/ammargitham/WallFlow/tarball/v2.5.0\"],[\"v2.5.0.zip\",\"https://api.github.com/repos/ammargitham/WallFlow/zipball/v2.5.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":true,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"github-creds\":\"\"}",
+            "lastUpdateCheck": 1729666064817818,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1712995211000000,
+            "changeLog": "## What's Changed\r\nWhat's New\r\n* Auto wallpaper will choose next wallpaper in sequence instead of random to prevent re-using previous wallpapers (#57)\r\n* Allow separate frequency for home and lock screen in auto wallpaper (#57)\r\n* Updated translations:\r\n  * Russian by @Atrafon \r\n  * Belarusian by @Atrafon\r\n  * Turkish by @oersen \r\n  * Ukranian by @Atrafon \r\n\r\nBug Fixes\r\n* Fix incorrect UI state when setting saved and local folders in Auto wallpaper sources (#87)\r\n* Handle crash if Files app is disabled when trying to choose a local directory or file (#87)\r\n* Fix UI logic for 'Set to' dialog\r\n\r\n\r\n**Full Changelog**: https://github.com/ammargitham/WallFlow/compare/v2.4.3...v2.5.0",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "ani.dantotsu",
+            "url": "https://github.com/rebelonion/Dantotsu",
+            "author": "rebelonion",
+            "name": "Dantotsu",
+            "installedVersion": "v3.1.0",
+            "latestVersion": "v3.1.0",
+            "apkUrls": "[[\"app-release.apk\",\"https://api.github.com/repos/rebelonion/Dantotsu/releases/assets/169690084\"]]",
+            "otherAssetUrls": "[[\"v3.1.0.tar.gz\",\"https://api.github.com/repos/rebelonion/Dantotsu/tarball/v3.1.0\"],[\"v3.1.0.zip\",\"https://api.github.com/repos/rebelonion/Dantotsu/zipball/v3.1.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":true,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"github-creds\":\"\"}",
+            "lastUpdateCheck": 1729666064547547,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1716488443000000,
+            "changeLog": "# 3.1.0\r\n\r\n- **New Features:**\r\n  - Addons\r\n    - Torrent support addon\r\n    - Anime downloading addon (mkv files pog)\r\n    - Available in app settings\r\n  - Anilist reviews in app\r\n  - Media subscriptions added to notification tab\r\n  - Notification filtering\r\n  - Ability to post activitys\r\n  - Ability to reply to activities\r\n  - Extension tester\r\n  - Media subscription Viewer\r\n  - Instagram-style stories\r\n  - More audio options for some extensions\r\n  - Ability to hide items on the home screen\r\n  - Ability to set a downloads directory\r\n  - 2 functioning widgets\r\n  - App lock ( ͡° ͜ʖ ͡°)\r\n  - More manga and anime feeds on the home page\r\n  - Settings page redesign\r\n  - New app crash notifier\r\n  - Voice actors\r\n  - Additional repo support\r\n  - Various UI uplifts\r\n\r\n- **Bugfixes:**\r\n  - Scanlator/language not saving after leaving app\r\n  - notification red dot not hiding on home pages\r\n  - comment/activity scrolling not working on some parts of the screen\r\n  - comment notifications falling to the bottom of the list\r\n  - Fixed some sources without audio\r\n  - Initial app loading time reduced\r\n  - activity text more visible\r\n  - novel extensions not installing\r\n  - Many sources not working\r\n  - Subscription notifications not using the correct source\r\n  - Notification red dot showing with no new notifications\r\n  - Various bug/crash fixes\r\n  - General theme tweaks\r\n  - Fixed some network-related crashes\r\n  - Subscription notifications not working for some people\r\n  - Fix for file permissions on older Android versions\r\n  - Search list view not working\r\n  - Media page opening twice on notification click\r\n\r\n - A Special Thanks to all those who contributed :heart:\r\n\r\n- **Like what you see?**\r\n  - Consider supporting me on [Github](https://github.com/sponsors/rebelonion) or [Buy Me a Coffee](https://www.buymeacoffee.com/rebelonion)!\r\n",
+            "overrideSource": "GitHub",
+            "allowIdChange": true
+        },
+        {
+            "id": "com.twitter.android",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "X",
+            "installedVersion": null,
+            "latestVersion": "20220965",
+            "apkUrls": "[[\"twitter-revanced-v10.60.0-release.0-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159851\"]]",
+            "otherAssetUrls": "[[\"music-revanced-magisk-v7.21.50-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/music-revanced-magisk-v7.21.50-arm64-v8a.zip\"],[\"music-revanced-v7.21.50-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159888\"],[\"tiktok-revanced-v36.5.4-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159870\"],[\"twitch-revanced-v16.9.1-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159855\"],[\"youtube-revanced-magisk-v19.16.39-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/youtube-revanced-magisk-v19.16.39-all.zip\"],[\"youtube-revanced-v19.16.39-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159830\"],[\"20220965.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220965\"],[\"20220965.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220965\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"Twitter: \",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"twitter-revanced-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064161631,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1727799630000000,
+            "changeLog": "Music (arm64-v8a): 7.21.50  \nTwitter: 10.60.0-release.0  \nTwitch: 16.9.1  \nYouTube: 19.16.39  \nTikTok: 36.5.4  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: j-hc/revanced-cli-4.6.0-all.jar  \nIntegrations: ReVanced/revanced-integrations-1.15.0.apk  \nPatches: ReVanced/revanced-patches-4.16.0.jar  \n[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.16.0)  \n\nSkipped:  \nPatches: inotia00/revanced-patches-4.14.1.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.reddit.frontpage",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "Reddit",
+            "installedVersion": null,
+            "latestVersion": "20220968",
+            "apkUrls": "[[\"reddit-extended-revanced-extended-v2024.17.0-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676604\"]]",
+            "otherAssetUrls": "[[\"music-revanced-extended-magisk-v7.16.53-arm-v7a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip\"],[\"music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip\"],[\"music-revanced-extended-v7.16.53-arm-v7a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676627\"],[\"music-revanced-extended-v7.16.53-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676613\"],[\"youtube-revanced-extended-magisk-v19.16.39-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/youtube-revanced-extended-magisk-v19.16.39-all.zip\"],[\"youtube-revanced-extended-v19.16.39-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676587\"],[\"20220968.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220968\"],[\"20220968.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220968\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"reddit-extended-revanced-extended-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064335686,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1729527199000000,
+            "changeLog": "Music-Extended (arm64-v8a): 7.16.53  \nMusic-Extended (arm-v7a): 7.16.53  \nYouTube-Extended: 19.16.39  \nReddit-Extended: 2024.17.0  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: inotia00/revanced-cli-4.6.2-all.jar  \nIntegrations: inotia00/revanced-integrations-1.15.1.apk  \nPatches: inotia00/revanced-patches-4.15.1.jar  \n[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.15.1)  \n\nSkipped:  \nPatches: ReVanced/revanced-patches-4.17.0.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "tv.twitch.android.app",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "Twitch",
+            "installedVersion": null,
+            "latestVersion": "20220965",
+            "apkUrls": "[[\"twitch-revanced-v16.9.1-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159855\"]]",
+            "otherAssetUrls": "[[\"music-revanced-magisk-v7.21.50-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/music-revanced-magisk-v7.21.50-arm64-v8a.zip\"],[\"music-revanced-v7.21.50-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159888\"],[\"tiktok-revanced-v36.5.4-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159870\"],[\"twitter-revanced-v10.60.0-release.0-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159851\"],[\"youtube-revanced-magisk-v19.16.39-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/youtube-revanced-magisk-v19.16.39-all.zip\"],[\"youtube-revanced-v19.16.39-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159830\"],[\"20220965.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220965\"],[\"20220965.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220965\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"Twitch: \",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"twitch-revanced-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064061103,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1727799630000000,
+            "changeLog": "Music (arm64-v8a): 7.21.50  \nTwitter: 10.60.0-release.0  \nTwitch: 16.9.1  \nYouTube: 19.16.39  \nTikTok: 36.5.4  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: j-hc/revanced-cli-4.6.0-all.jar  \nIntegrations: ReVanced/revanced-integrations-1.15.0.apk  \nPatches: ReVanced/revanced-patches-4.16.0.jar  \n[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.16.0)  \n\nSkipped:  \nPatches: inotia00/revanced-patches-4.14.1.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.nutomic.syncthingandroid",
+            "url": "https://github.com/syncthing/syncthing-android",
+            "author": "syncthing",
+            "name": "Syncthing",
+            "installedVersion": null,
+            "latestVersion": "1.28.0",
+            "apkUrls": "[[\"app-release.apk\",\"https://api.github.com/repos/syncthing/syncthing-android/releases/assets/199560452\"]]",
+            "otherAssetUrls": "[[\"sha256sum.txt.asc\",\"https://github.com/syncthing/syncthing-android/releases/download/1.28.0/sha256sum.txt.asc\"],[\"1.28.0.tar.gz\",\"https://api.github.com/repos/syncthing/syncthing-android/tarball/1.28.0\"],[\"1.28.0.zip\",\"https://api.github.com/repos/syncthing/syncthing-android/zipball/1.28.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064735453,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1729112460000000,
+            "changeLog": "* Update Syncthing to v1.28.0: https://github.com/syncthing/syncthing/releases/tag/v1.28.0\r\n\r\nNo release on google play, see https://github.com/syncthing/syncthing-android/issues/2064\r\n",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "app.revanced.android.apps.youtube.music",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "YouTube Music",
+            "installedVersion": null,
+            "latestVersion": "20220968",
+            "apkUrls": "[[\"music-revanced-extended-v7.16.53-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676613\"]]",
+            "otherAssetUrls": "[[\"music-revanced-extended-magisk-v7.16.53-arm-v7a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip\"],[\"music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip\"],[\"music-revanced-extended-v7.16.53-arm-v7a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676627\"],[\"reddit-extended-revanced-extended-v2024.17.0-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676604\"],[\"youtube-revanced-extended-magisk-v19.16.39-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/youtube-revanced-extended-magisk-v19.16.39-all.zip\"],[\"youtube-revanced-extended-v19.16.39-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200676587\"],[\"20220968.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220968\"],[\"20220968.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220968\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"Music\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"music-revanced-\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064548449,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1729527199000000,
+            "changeLog": "Music-Extended (arm64-v8a): 7.16.53  \nMusic-Extended (arm-v7a): 7.16.53  \nYouTube-Extended: 19.16.39  \nReddit-Extended: 2024.17.0  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: inotia00/revanced-cli-4.6.2-all.jar  \nIntegrations: inotia00/revanced-integrations-1.15.1.apk  \nPatches: inotia00/revanced-patches-4.15.1.jar  \n[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.15.1)  \n\nSkipped:  \nPatches: ReVanced/revanced-patches-4.17.0.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.zhiliaoapp.musically",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "TikTok",
+            "installedVersion": null,
+            "latestVersion": "20220965",
+            "apkUrls": "[[\"tiktok-revanced-v36.5.4-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159870\"]]",
+            "otherAssetUrls": "[[\"music-revanced-magisk-v7.21.50-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/music-revanced-magisk-v7.21.50-arm64-v8a.zip\"],[\"music-revanced-v7.21.50-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159888\"],[\"twitch-revanced-v16.9.1-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159855\"],[\"twitter-revanced-v10.60.0-release.0-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159851\"],[\"youtube-revanced-magisk-v19.16.39-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/youtube-revanced-magisk-v19.16.39-all.zip\"],[\"youtube-revanced-v19.16.39-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/196159830\"],[\"20220965.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220965\"],[\"20220965.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220965\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"TikTok: \",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"tiktok-revanced-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"TikTok\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666064255085,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1727799630000000,
+            "changeLog": "Music (arm64-v8a): 7.21.50  \nTwitter: 10.60.0-release.0  \nTwitch: 16.9.1  \nYouTube: 19.16.39  \nTikTok: 36.5.4  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: j-hc/revanced-cli-4.6.0-all.jar  \nIntegrations: ReVanced/revanced-integrations-1.15.0.apk  \nPatches: ReVanced/revanced-patches-4.16.0.jar  \n[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.16.0)  \n\nSkipped:  \nPatches: inotia00/revanced-patches-4.14.1.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "app.revanced.android.youtube",
+            "url": "https://github.com/j-hc/revanced-magisk-module",
+            "author": "j-hc",
+            "name": "YouTube",
+            "installedVersion": "20220967",
+            "latestVersion": "20220967",
+            "apkUrls": "[[\"youtube-revanced-v19.34.42-all.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200445504\"]]",
+            "otherAssetUrls": "[[\"music-revanced-magisk-v7.23.51-arm-v7a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220967/music-revanced-magisk-v7.23.51-arm-v7a.zip\"],[\"music-revanced-magisk-v7.23.51-arm64-v8a.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220967/music-revanced-magisk-v7.23.51-arm64-v8a.zip\"],[\"music-revanced-v7.23.51-arm-v7a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200445520\"],[\"music-revanced-v7.23.51-arm64-v8a.apk\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/releases/assets/200445513\"],[\"youtube-revanced-magisk-v19.34.42-all.zip\",\"https://github.com/j-hc/revanced-magisk-module/releases/download/20220967/youtube-revanced-magisk-v19.34.42-all.zip\"],[\"20220967.tar.gz\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/tarball/20220967\"],[\"20220967.zip\",\"https://api.github.com/repos/j-hc/revanced-magisk-module/zipball/20220967\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"YouTube: \",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"youtube-revanced-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666063941559,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1729441394000000,
+            "changeLog": "YouTube: 19.34.42  \nMusic (arm64-v8a): 7.23.51  \nMusic (arm-v7a): 7.23.51  \n\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  \nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  \n\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n  \nCLI: j-hc/revanced-cli-4.6.0-all.jar  \nIntegrations: ReVanced/revanced-integrations-1.16.0.apk  \nPatches: ReVanced/revanced-patches-4.17.0.jar  \n[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.17.0)  \n\nSkipped:  \nPatches: inotia00/revanced-patches-4.14.2.jar",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "app.revanced.android.gms",
+            "url": "https://github.com/revanced/gmscore",
+            "author": "revanced",
+            "name": "microG Services",
+            "installedVersion": "v0.3.1.4.240913",
+            "latestVersion": "v0.3.1.4.240913",
+            "apkUrls": "[[\"app.revanced.android.gms-240913008-hw-signed.apk\",\"https://api.github.com/repos/ReVanced/GmsCore/releases/assets/160409103\"],[\"app.revanced.android.gms-240913008-signed.apk\",\"https://api.github.com/repos/ReVanced/GmsCore/releases/assets/160409101\"]]",
+            "otherAssetUrls": "[[\"v0.3.1.4.240913.tar.gz\",\"https://api.github.com/repos/ReVanced/GmsCore/tarball/v0.3.1.4.240913\"],[\"v0.3.1.4.240913.zip\",\"https://api.github.com/repos/ReVanced/GmsCore/zipball/v0.3.1.4.240913\"]]",
+            "preferredApkIndex": 1,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666063856543,
+            "pinned": false,
+            "categories": [
+                "Revanced"
+            ],
+            "releaseDate": 1712284631000000,
+            "changeLog": "# Download\r\n\r\n| Default | Huawei |\r\n| -------- | -------- |\r\n| [Download](https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-signed.apk) |  [Download](https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-hw-signed.apk) |\r\n",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "org.proninyaroslav.libretorrent",
+            "url": "https://github.com/proninyaroslav/libretorrent",
+            "author": "proninyaroslav",
+            "name": "LibreTorrent",
+            "installedVersion": null,
+            "latestVersion": "3.5.2",
+            "apkUrls": "[[\"LibreTorrent-3.5.2-arm64-v8a.apk\",\"https://api.github.com/repos/proninyaroslav/libretorrent/releases/assets/192774453\"]]",
+            "otherAssetUrls": "[[\"LibreTorrent-3.5.2-all.apk\",\"https://api.github.com/repos/proninyaroslav/libretorrent/releases/assets/192774397\"],[\"LibreTorrent-3.5.2-armeabi-v7a.apk\",\"https://api.github.com/repos/proninyaroslav/libretorrent/releases/assets/192774466\"],[\"LibreTorrent-3.5.2-x86.apk\",\"https://api.github.com/repos/proninyaroslav/libretorrent/releases/assets/192774487\"],[\"LibreTorrent-3.5.2-x86_64.apk\",\"https://api.github.com/repos/proninyaroslav/libretorrent/releases/assets/192774494\"],[\"3.5.2.tar.gz\",\"https://api.github.com/repos/proninyaroslav/libretorrent/tarball/3.5.2\"],[\"3.5.2.zip\",\"https://api.github.com/repos/proninyaroslav/libretorrent/zipball/3.5.2\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"An open-source torrent client app for Android devices, allowing users to download and manage torrent files securely and efficiently.\"}",
+            "lastUpdateCheck": 1729666063863043,
+            "pinned": false,
+            "categories": [
+                "Official Build"
+            ],
+            "releaseDate": 1726422246000000,
+            "changeLog": "* The encryption option is divided into separate ones for incoming and outgoing connections\r\n* Fixed a bug where disabling the option to encrypt incoming or outgoing connections did not actually change the settings in some cases",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.spotify.musix",
+            "url": "https://github.com/SUFahad007/Obtainium-Apps",
+            "author": "SUFahad007",
+            "name": "Spotify",
+            "installedVersion": "v8.9.84.594",
+            "latestVersion": "v8.9.84.594",
+            "apkUrls": "[[\"Spotify-v8.9.84.594-Amoled-Clone-arm64-v8a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206236\"]]",
+            "otherAssetUrls": "[[\"Spotify-v8.9.84.594-Amoled-Clone-armeabi-v7a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206246\"],[\"v8.9.84.594.tar.gz\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/tarball/Spotify\"],[\"v8.9.84.594.zip\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/zipball/Spotify\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"Spotify-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Spotify\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666063752061,
+            "pinned": false,
+            "categories": [
+                "Mod Apps"
+            ],
+            "releaseDate": 1729338093000000,
+            "changeLog": "# Spotify",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "com.mxtech.videoplayer.pro",
+            "url": "https://github.com/SUFahad007/Obtainium-Apps",
+            "author": "SUFahad007",
+            "name": "MX Player Pro",
+            "installedVersion": "v1.86.0",
+            "latestVersion": "v1.86.0",
+            "apkUrls": "[[\"MX-Player-Pro-v1.86.0-arm64-v8a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206074\"]]",
+            "otherAssetUrls": "[[\"MX-Player-Pro-v1.86.0-armeabi-v7a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206085\"],[\"MX-Player-Pro-v1.86.0-Universal.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206094\"],[\"v1.86.0.tar.gz\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/tarball/MX-Player-Pro\"],[\"v1.86.0.zip\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/zipball/MX-Player-Pro\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"MX-Player-Pro-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"MX Playar Pro\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666063864853,
+            "pinned": false,
+            "categories": [
+                "Mod Apps"
+            ],
+            "releaseDate": 1728057072000000,
+            "changeLog": "# MX Player Pro",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "idm.internet.download.manager.plus",
+            "url": "https://github.com/SUFahad007/Obtainium-Apps",
+            "author": "SUFahad007",
+            "name": "1DM+",
+            "installedVersion": "v17.2",
+            "latestVersion": "v17.2",
+            "apkUrls": "[[\"1DM-Plus-v17.2-arm64-v8a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206337\"]]",
+            "otherAssetUrls": "[[\"1DM-Plus-Lite-v17.2-arm64-v8a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200372670\"],[\"1DM-Plus-Lite-v17.2-armeabi-v7a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200372677\"],[\"1DM-Plus-v17.2-armeabi-v7a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206342\"],[\"1DM-Plus-v17.2-Universal.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200206347\"],[\"v17.2.tar.gz\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/tarball/1DM+\"],[\"v17.2.zip\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/zipball/1DM+\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"1DM-Plus-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"1DM+\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"github-creds\":\"\"}",
+            "lastUpdateCheck": 1729666063950712,
+            "pinned": false,
+            "categories": [
+                "Mod Apps"
+            ],
+            "releaseDate": 1729338317000000,
+            "changeLog": "# 1DM+",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "com.mixplorer.silver",
+            "url": "https://github.com/SUFahad007/Obtainium-Apps",
+            "author": "SUFahad007",
+            "name": "MiXplorer",
+            "installedVersion": "v6.67.3",
+            "latestVersion": "v6.67.3",
+            "apkUrls": "[[\"MiXplorer-v6.67.3-arm64-v8a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200205315\"]]",
+            "otherAssetUrls": "[[\"MiXplorer-v6.67.3-armeabi-v7a.apk\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/releases/assets/200205318\"],[\"v6.67.3.tar.gz\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/tarball/MiXplorer\"],[\"v6.67.3.zip\",\"https://api.github.com/repos/SUFahad007/Obtainium-Apps/zipball/MiXplorer\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"MiXplorer-v\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"MiXplorer\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+            "lastUpdateCheck": 1729666063862673,
+            "pinned": false,
+            "categories": [
+                "Mod Apps"
+            ],
+            "releaseDate": 1728057011000000,
+            "changeLog": "# MiXplorer",
+            "overrideSource": "GitHub",
+            "allowIdChange": false
+        }
+    ],
+    "settings": {
+        "useBlackTheme": true,
+        "checkOnStart": false,
+        "buryNonInstalled": true,
+        "categories": "{\"Revanced\":4291667046,\"Official Build\":4285381755,\"Mod Apps\":4287016421}",
+        "groupByCategory": true,
+        "lastCompletedBGCheckTime": 1729665549792,
+        "showAppWebpage": false,
+        "reversePageTransitions": false,
+        "exportDir": "content://com.android.externalstorage.documents/tree/primary%3AObtainium",
+        "hideTrackOnlyWarning": false,
+        "checkUpdateOnDetailPage": false,
+        "parallelDownloads": true,
+        "disablePageTransitions": false,
+        "theme": 2,
+        "firstRun": false,
+        "exportSettings": true,
+        "autoExportOnChanges": false,
+        "searchDeselected": [
+            "GitLab",
+            "Forgejo (Codeberg)",
+            "F-Droid Official",
+            "F-Droid Third-Party Repo"
+        ],
+        "themeColor": 4284758197,
+        "enableBackgroundUpdates": false,
+        "useMaterialYou": false,
+        "github-creds": "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",
+        "highlightTouchTargets": true,
+        "pinUpdates": false
+    }
+}
